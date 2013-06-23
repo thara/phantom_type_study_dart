@@ -1,0 +1,5 @@
+name: phantom_type_study_dart_libraries
+description: A sample command-line application
+dependencies:
+  browser: any
+  unittest: any
